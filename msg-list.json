@@ -8,7 +8,7 @@
       "toUserId":"140000198202211138",
       "toUserName":"Luff",
       "userAvatar":"./assets/user.jpg",
-      "time":(new Date()).getTime(),
+      "time":1491034800000,
       "message":"Hi, I am Cherry. How can I help you?",
       "status":"success"
     }]
