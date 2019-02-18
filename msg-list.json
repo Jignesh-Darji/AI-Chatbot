@@ -1,0 +1,15 @@
+{
+  "array":[
+    {
+      "messageId":"1",
+      "userId":"210000198410281948",
+      "userName":"Cherry",
+      "userImgUrl":"./assets/to-user.jpg",
+      "toUserId":"140000198202211138",
+      "toUserName":"Luff",
+      "userAvatar":"./assets/user.jpg",
+      "time":1491034800000,
+      "message":"Hi, I am Cherry. How can I help you?",
+      "status":"success"
+    }
+    }
